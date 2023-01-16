@@ -1,3 +1,6 @@
 [submodule "HierarchyDecorator"]
 	path = HierarchyDecorator
 	url = https://github.com/WooshiiDev/HierarchyDecorator.git
+[submodule "Unity-Folder-Icons"]
+	path = Unity-Folder-Icons
+	url = https://github.com/WooshiiDev/Unity-Folder-Icons.git
